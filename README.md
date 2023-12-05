@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajaySahani7945
+- 👋 Hi, I’m ajay sahani and this is my github handle @ajaySahani7945
 - 👀 I’m interested in open source contribution
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with people working on open source project.
